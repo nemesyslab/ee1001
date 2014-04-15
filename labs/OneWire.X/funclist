@@ -1,0 +1,20 @@
+_Lcd_Init: CODE, 1319 0 161
+_Lcd_Out: CODE, 989 0 72
+_ow_reset: CODE, 689 0 40
+__stringtab: STRING, 3 0 16
+__stringdata: STRING, 29 0 20
+_Lcd_Chr: CODE, 729 0 42
+_Lcd_Chr_CP: CODE, 1646 0 171
+_ds_get_temp: CODE, 1175 0 144
+_dpowers: STRING, 19 0 10
+_main: CODE, 1061 0 114
+_Lcd_Cmd: CODE, 1480 0 166
+_ow_read_byte: CODE, 873 0 54
+__initialization: CODE, 2034 0 10
+___lwdiv: CODE, 927 0 62
+_sprintf: CODE, 1817 0 217
+___lwmod: CODE, 821 0 52
+_ow_write_byte: CODE, 771 0 50
+_Delay_5us: CODE, 670 0 9
+_Delay_5500us: CODE, 679 0 10
+Total: 1420

@@ -1,0 +1,16 @@
+___aldiv: CODE, 1036 0 143
+_Lcd_Init: CODE, 1179 0 161
+_Lcd_Out: CODE, 851 0 64
+__stringtab: STRING, 3 0 6
+__stringdata: STRING, 9 0 38
+_Lcd_Chr: CODE, 746 0 42
+_Lcd_Chr_CP: CODE, 1506 0 171
+_ADCInit: CODE, 718 0 9
+_main: CODE, 1677 0 359
+_Lcd_Cmd: CODE, 1340 0 166
+___almod: CODE, 915 0 121
+___lmul: CODE, 788 0 63
+__initialization: CODE, 2036 0 8
+_Delay_5us: CODE, 727 0 9
+_Delay_5500us: CODE, 736 0 10
+Total: 1370
